@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WinFormsApp1Klient/WinFormsApp1Klient.csproj" />
+  <Project Path="WinFormsApp1Server/WinFormsApp1Server.csproj" />
+  <Project Path="WinFormsApp1_Server_511/WinFormsApp1_Server_511.csproj" />
+</Solution>
